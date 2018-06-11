@@ -1,0 +1,15 @@
+2018-06-11 18:35:02,713,root,DEBUG,a_debug
+2018-06-11 18:35:02,713,root,INFO,a_info
+2018-06-11 18:35:02,713,root,WARNING,a_warning
+2018-06-11 18:35:02,713,root,ERROR,a_error
+2018-06-11 18:35:02,714,root,CRITICAL,a_critical
+2018-06-11 18:35:02,714,root,INFO,--
+2018-06-11 18:35:02,714,root,INFO,my_int: 15, my_float: 3.14, my_string: Hello Python
+2018-06-11 18:35:02,714,root,DEBUG,my_int * my_int: 225, my_int / my_float: 4.77, my_string: Hello Python
+2018-06-11 18:35:02,714,root,INFO,--
+2018-06-11 18:35:02,715,example_sub,DEBUG,a_debug
+2018-06-11 18:35:02,715,example_sub,INFO,a_info
+2018-06-11 18:35:02,715,example_sub,WARNING,a_warning
+2018-06-11 18:35:02,715,example_sub,ERROR,a_error
+2018-06-11 18:35:02,715,example_sub,CRITICAL,a_critical
+2018-06-11 18:35:02,716,example_sub,INFO,--
